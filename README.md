@@ -1,4 +1,6 @@
-# bootstrap-button-sample
+Added sass support.
+
+# bootstrap-bottun-sample
 Bootstrap Rounded and Outline Buttons for your next project
 
 ## How to install?
